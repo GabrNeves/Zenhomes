@@ -23,6 +23,7 @@ export default function Home() {
           <CardFinancial/>
           <SimpleBottomNavigation/>
         </Box>
+        
     </div>
   )
 }
