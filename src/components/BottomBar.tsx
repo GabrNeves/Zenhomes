@@ -4,7 +4,6 @@ import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import NotificationsNoneIcon from "@mui/icons-material/NotificationsNone";
 import HomeIcon from "@mui/icons-material/Home";
-import BusinessCenterIcon from "@mui/icons-material/BusinessCenter";
 import ChatBubbleOutlineIcon from "@mui/icons-material/ChatBubbleOutline";
 import Snackbar, { SnackbarOrigin } from "@mui/material/Snackbar";
 

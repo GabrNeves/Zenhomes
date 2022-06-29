@@ -8,7 +8,6 @@ import { ThemeProvider, createTheme } from "@mui/material/styles";
 import FinanceTable from "./components/Finances";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Login from './components/Login'
-import Logged from './components/AlreadyLogged'
 import Detail from './components/Detail'
 import Event from './components/Event'
 import Pictures from './components/Pictures'
