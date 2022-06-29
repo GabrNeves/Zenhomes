@@ -14,8 +14,7 @@ export default function Home() {
   return (
     <div>
       <Sidebar/>
-        {/* <Box sx={{display: {xs: 'none', sm:"grid"}, gap:'2rem', justifyContent:'center', gridTemplateColumns:'auto auto', marginTop: '5%'}}> */}
-        <Box sx={{display:"grid", margin: 'auto', gridTemplateColumns:'auto auto', marginTop: '5%'}}>
+        <Box sx={{display: "grid", gap:'2rem', justifyContent:'center', gridTemplateColumns:'auto auto', marginTop: '5%'}}>
           <CardContract/>
           <CardLaws/>
           <CardMaintenance/>
@@ -24,6 +23,7 @@ export default function Home() {
           <CardFinancial/>
           <SimpleBottomNavigation/>
         </Box>
+
     </div>
   )
 }
